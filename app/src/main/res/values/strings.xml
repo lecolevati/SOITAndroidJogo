@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jogo da Adivinhação</string>
+    <string name="nome_botao">Tentar</string>
+    <string name="nome_botao_retorno">Voltar</string>
+    <string name="valor_menor">O número é menor</string>
+    <string name="valor_maior">O número é maior</string>
+    <string name="res">Parabéns! Você acertou o no.</string>
+</resources>
